@@ -18,7 +18,7 @@ dependencies:
   provider: ^6.1.1
   audio_waveforms: ^1.0.4
   cupertino_icons: ^1.0.2
-  file_picker: ^6.1.1
+  file_picker: ^5.5.0
 
 dev_dependencies:
   flutter_test:
